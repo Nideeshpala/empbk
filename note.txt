@@ -1,0 +1,17 @@
+mvc frame work  ---  model view control
+
+dotenv install  npm i dotenv
+
+
+environmental variable
+-----------------------
+variable that contain application configurations that need in the time of running 
+
+handling module - process
+
+it will convert static working app into dynamic(local host running to server)
+
+
+multer
+-------
+library used to handle file type datas in server
